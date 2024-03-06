@@ -12,6 +12,7 @@ This Python script generates Fibonacci numbers up to a specified limit using a g
 - The script will then display the Fibonacci series up to the specified limit.
 
 ## Example
+Suppose you run the script and input a limit of 20:
 -Enter the limit for Fibonacci series: 20
 -Fibonacci series up to 20 :
 -0 1 1 2 3 5 8 13
